@@ -1,2 +1,2 @@
-# humhub-social-module
-WIP
+# [HumHub](https://www.humhub.org/) Social Module
+> WIP
